@@ -7,6 +7,8 @@ gem 'rails', '3.0.3'
 
 gem 'sqlite3-ruby', :require => 'sqlite3'
 
+gem 'activerecord-native_db_types_override'
+
 gem 'rake', '0.8.7'
 
 gem 'will_paginate', '>= 3.0.pre'
@@ -14,7 +16,7 @@ gem 'will_paginate', '>= 3.0.pre'
 # gem 'unicorn'
 
 # Deploy with Capistrano
-# gem 'capistrano'
+ gem 'capistrano'
 
 # To use debugger (ruby-debug for Ruby 1.8.7+, ruby-debug19 for Ruby 1.9.2+)
 # gem 'ruby-debug'

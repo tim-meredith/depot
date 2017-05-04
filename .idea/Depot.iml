@@ -149,6 +149,7 @@
     <orderEntry type="library" scope="PROVIDED" name="actionpack (v3.0.3, rbenv: 1.9.3-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v3.0.3, rbenv: 1.9.3-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v3.0.3, rbenv: 1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord-native_db_types_override (v0.2.1, rbenv: 1.9.3-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activeresource (v3.0.3, rbenv: 1.9.3-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v3.0.3, rbenv: 1.9.3-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v2.0.10, rbenv: 1.9.3-p0) [gem]" level="application" />
