@@ -1,0 +1,13 @@
+---
+javascripts:
+- base:
+  - jquery.min
+  - rails
+  - jquery
+  - jquery-ui.min
+  - jquery-ui
+  - application
+stylesheets:
+- base:
+  - depot
+  - scaffold

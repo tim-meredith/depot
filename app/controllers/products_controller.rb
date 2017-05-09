@@ -6,7 +6,8 @@ class ProductsController < ApplicationController
 
     respond_to do |format|
       format.html # index.html.erb
-      format.xml  { render :xml => @products }
+      format.json { render :json => @products}
+      format.xml  { render content_type: :xml }
     end
   end
 
@@ -17,7 +18,8 @@ class ProductsController < ApplicationController
 
     respond_to do |format|
       format.html # show.html.erb
-      format.xml  { render :xml => @product }
+      format.json { render content_type: :json}
+      format.xml  { render content_type: :xml}
     end
   end
 

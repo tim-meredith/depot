@@ -34,3 +34,9 @@ gem 'will_paginate', '>= 3.0.pre'
 # group :development, :test do
 #   gem 'webrat'
 # end
+
+gem 'activemerchant', '~> 1.9.0'
+gem 'haml', '~> 3.0.18'
+gem 'jquery-rails', '~> 0.2.2'
+gem 'braintree', '~> 2.74.0'
+# gem 'jquery'
